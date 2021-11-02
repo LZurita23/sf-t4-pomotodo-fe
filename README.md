@@ -19,7 +19,7 @@ Finishing a timed pomodoro interval (25 min) with at least one item in the todo 
 , make changes and click **Apply**. To change the order of the list item, click and drag on the "**=**" of the item.
 - **DELETE** - To remove **completed** items from the list, click on the **Edit** menu, and select **Rem**.
 
-- *Note, if items are not saving properly, you may not have started the backend server and configured its URL in your .env file. You will have to set this variable **REACT_APP_API_URL** and rebuild or serve the app.*
+- *Note, if items are not saving properly, you may not have started the [backend server](https://github.com/gSchool/sf-t4-demo-pomotodo-be) and configured its URL in your .env file. You will have to set this variable **REACT_APP_API_URL** and rebuild or serve the app.*
 
 
 ## Stories

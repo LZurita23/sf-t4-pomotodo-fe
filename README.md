@@ -5,6 +5,7 @@
 
 ## Requirements
 - node (tested with versions 10+)
+- Access the TodoArchDiagram using [draw.io] (https://app.diagrams.net/?splash=0&libs=aws4)
 
 ## Installation
 - `npm install`
@@ -47,6 +48,8 @@ Finishing a timed pomodoro interval (25 min) with at least one item in the todo 
 
 **Persistence**
 - As a user, I want to be able to log in and stay logged into to keep track of my todos, should I close or restart the app, so I can pick up where I left off
+
+
 
 
 

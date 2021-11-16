@@ -5,7 +5,7 @@
 
 ## Requirements
 - node (tested with versions 10+)
-- Access the TodoArchDiagram using [draw.io] (https://app.diagrams.net/?splash=0&libs=aws4)
+- Access the TodoArchDiagram using [draw.io](https://app.diagrams.net/?splash=0&libs=aws4)
 
 ## Installation
 - `npm install`
